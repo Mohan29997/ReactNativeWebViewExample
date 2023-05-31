@@ -1,0 +1,48 @@
+const dummyData = [
+  {
+    time: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    task: 'Prepare a proposal template',
+    assign: 'Hellen Whilliams',
+    id: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    name: 'Prepare a proposal template',
+    email: 'Hellen Whilliams',
+    pass: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    num: 'Prepare a proposal template',
+    loca: 'Hellen Whilliams',
+  },
+  {
+    time: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    task: 'Prepare a proposal template',
+    assign: 'Hellen Whilliams',
+    id: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    name: 'Prepare a proposal template',
+    email: 'Hellen Whilliams',
+    pass: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    num: 'Prepare a proposal template',
+    loca: 'Hellen Whilliams',
+  },
+  {
+    time: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    task: 'Prepare a proposal template',
+    assign: 'Hellen Whilliams',
+    id: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    name: 'Prepare a proposal template',
+    email: 'Hellen Whilliams',
+    pass: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    num: 'Prepare a proposal template',
+    loca: 'Hellen Whilliams',
+  },
+  {
+    time: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    task: 'Prepare a proposal template',
+    assign: 'Hellen Whilliams',
+    id: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    name: 'Prepare a proposal template',
+    email: 'Hellen Whilliams',
+    pass: '6:30AM, Aug 1 - 7:30AM, Aug 2',
+    num: 'Prepare a proposal template',
+    loca: 'Hellen Whilliams',
+  },
+];
+
+export default dummyData;
